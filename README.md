@@ -1,5 +1,6 @@
 ✨ SKRITI E-COMMERCE SALES DASHBOARD
-Crafted from Culture • Tradition in Motion
+
+Crafted from Culture | Tradition in Motion
 
 The SKRITI E-COMMERCE SALES DASHBOARD is an interactive report designed to showcase the performance and trends of an e-commerce platform that celebrates cultural values and traditions. SKRITI combines modern technology with heritage-inspired products, helping businesses analyze sales, customer preferences, and market trends to stay connected with cultural roots while embracing growth.
 
