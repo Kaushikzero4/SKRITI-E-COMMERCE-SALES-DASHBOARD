@@ -1,10 +1,12 @@
 ✨ SKRITI E-COMMERCE SALES DASHBOARD
 
 Crafted from Culture | Tradition in Motion
+<img width="1290" height="633" alt="Screenshot 2025-09-15 205449" src="https://github.com/user-attachments/assets/08bd8550-ab62-4318-92a1-19882101a8f9" />
 
 The SKRITI E-COMMERCE SALES DASHBOARD is an interactive report designed to showcase the performance and trends of an e-commerce platform that celebrates cultural values and traditions. SKRITI combines modern technology with heritage-inspired products, helping businesses analyze sales, customer preferences, and market trends to stay connected with cultural roots while embracing growth.
 
 🌟 About SKRITI
+
 SKRITI stands for a blend of culture, tradition, and innovation. This dashboard supports data-driven decision-making while honoring timeless traditions. It is a powerful tool for businesses looking to expand their reach, understand consumer behavior, and track performance through intuitive visualizations.
 
 📊 Features
@@ -55,17 +57,17 @@ Generate actionable insights to support sales and marketing strategies.
 
 🎯 Business Value
 
-Identify top-selling products and regions
-Understand customer buying habits
-Optimize payment options and customer experience
-Monitor profitability and seasonality
-Align marketing efforts with cultural trends
+Identify top-selling products and regions,
+Understand customer buying habits,
+Optimize payment options and customer experience,
+Monitor profitability and seasonality,
+Align marketing efforts with cultural trends.
 
 📂 Technologies Used
 
-Power BI for interactive dashboards
-DAX formulas for metrics and calculations
-Data modeling for efficient reporting
+Power BI for interactive dashboards,
+DAX formulas for metrics and calculations,
+Data modeling for efficient reporting.
 
 📩 Contact
 
@@ -73,6 +75,6 @@ For questions, feedback, or collaboration, please reach out at kumarkaushik3735@
 
 📌 Notes
 
-Designed for cultural and tradition-based e-commerce businesses
-Scalable for new datasets or regions
-Enhances decision-making with clear, actionable insights
+Designed for cultural and tradition-based e-commerce businesses,
+Scalable for new datasets or regions,
+Enhances decision-making with clear, actionable insights.
